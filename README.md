@@ -1,1 +1,3 @@
 # gitskills
+jjjjjjikkkkk
+"hello world"
